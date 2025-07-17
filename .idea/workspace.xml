@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98ddb15a-1bf9-4f2a-bf27-5c60ecdd76d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Condition_and_loops/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_and_loops/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition_and_loops/Evenorodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_and_loops/Evenorodd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition_and_loops/Fibonacchi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_and_loops/Fibonacchi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition_and_loops/Maxval.java" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_and_loops/Maxval.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AUTU8M&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AUTU8M/java-dsa.git&quot;,
+    &quot;accountId&quot;: &quot;5d8269e7-7143-46b1-aa3b-90fe785c42c2&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2xwXl1kfYMiT9U7wCuWuWXXnn3k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Armstrong.java.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Average_marks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Electricity_bill.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_min.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maxval (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maxval.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Perfect_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Same_number_count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_of_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Upper_or_lower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.print_name.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Dev/CODES/DSA java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Dev/CODES/DSA java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Armstrong">
+    <configuration name="Armstrong" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Armstrong" />
+      <module name="DSA java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Armstrong.java" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Armstrong" />
+      <module name="DSA java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Average_marks" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Average_marks" />
+      <module name="DSA java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Electricity_bill" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="envFilePaths">
+        <option value="$PROJECT_DIR$/Questions/Electricity_bill.java" />
+      </option>
+      <option name="MAIN_CLASS_NAME" value="Electricity_bill" />
+      <module name="DSA java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Even_odd" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="BUNDLED" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="print_name" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Function" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maxval (1)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="envFilePaths">
+        <option value="$PROJECT_DIR$/Condition_and_loops/Maxval.java" />
+      </option>
+      <option name="MAIN_CLASS_NAME" value="Condition_and_loops.Maxval" />
+      <module name="DSA java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Condition_and_loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maxval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Condition_and_loops.Maxval" />
+      <module name="DSA java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Condition_and_loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Condition_and_loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Perfect_number" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Perfect_number" />
+      <module name="DSA java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="print_name" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="print_name" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Maxval (1)" />
+        <item itemvalue="Application.Maxval" />
+        <item itemvalue="Application.Even_odd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98ddb15a-1bf9-4f2a-bf27-5c60ecdd76d2" name="Changes" comment="" />
+      <created>1748850256757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748850256757</updated>
+    </task>
+    <servers />
+  </component>
+</project>
