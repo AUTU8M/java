@@ -7,6 +7,7 @@ public class Richest_customer_wealth {
                 {1, 1, 1}    // Wealth = 3
         };
         int maxval = 0;
+        int maxvalindex=-1;
 
         // loop through rows (each person's accounts)
         for (int i = 0; i < accounts.length; i++) {
@@ -19,9 +20,10 @@ public class Richest_customer_wealth {
 
             if (sum > maxval) {
                 maxval = sum;
+                maxvalindex=i;
             }
 
         }
-        System.out.println(maxval);
+        System.out.println("the person " +(maxvalindex+1)+"has total amount of "+ maxval);
     }
 }
