@@ -1,0 +1,32 @@
+# --- OS-specific files ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Java build files ---
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# --- Build directories ---
+/out/
+/build/
+/target/
+/bin/
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+
+# --- VS Code ---
+.vscode/
+.history/
