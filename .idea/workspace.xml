@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98ddb15a-1bf9-4f2a-bf27-5c60ecdd76d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Condition_and_loops/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_and_loops/Armstrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Condition_and_loops/Evenorodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_and_loops/Evenorodd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Condition_and_loops/Fibonacchi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_and_loops/Fibonacchi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Condition_and_loops/Maxval.java" beforeDir="false" afterPath="$PROJECT_DIR$/Condition_and_loops/Maxval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Leetcode/AgnosticBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Leetcode/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Leetcode/EvenNoOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Leetcode/Highest_altitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Leetcode/Infintearray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/Leetcode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array/Leetcode/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/Leetcode/Tomar_moner_goti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Check.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Double_size.class" beforeDir="false" afterPath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Double_size.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Linear_search.class" beforeDir="false" afterPath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Linear_search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Pangram.class" beforeDir="false" afterPath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Pangram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/array/Leetcode/out/production/Leetcode/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,38 +60,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Armstrong.java.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Average_marks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Electricity_bill.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Max_min.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maxval (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maxval.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Perfect_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Same_number_count.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_of_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Upper_or_lower.executor&quot;: &quot;Run&quot;,
-    &quot;Application.print_name.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Dev/CODES/DSA java&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Dev/CODES/DSA java/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.Armstrong.java.executor": "Run",
+    "Application.Average_marks.executor": "Run",
+    "Application.Electricity_bill.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Max_min.executor": "Run",
+    "Application.Maxval (1).executor": "Run",
+    "Application.Maxval.executor": "Run",
+    "Application.Perfect_number.executor": "Run",
+    "Application.Same_number_count.executor": "Run",
+    "Application.Sum_of_number.executor": "Run",
+    "Application.Upper_or_lower.executor": "Run",
+    "Application.print_name.executor": "Run",
+    "Application.test.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "mac",
+    "last_opened_file_path": "/Users/autu8m/java/java",
+    "onboarding.tips.debug.path": "C:/Dev/CODES/DSA java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Armstrong">

@@ -1,0 +1,87 @@
+# .gitignore for macOS + IntelliJ IDEA
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+__MACOSX/
+
+# IntelliJ IDEA project files (these should not be shared)
+.idea/
+*.iml
+
+# User-specific files
+*.swp
+*.swo
+
+# Build output directories (adjust if your project uses different ones)
+out/
+build/
+target/
+
+# Log files
+*.log
+
+# Compiled source files
+*.class
+
+# Package distribution
+*.jar
+*.war
+*.ear
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Python virtual environments (if using Python)
+venv/
+.env/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore local environment settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore crash reports
+*.crash
+
+# Ignore application-specific files (add more as needed)
+*.db
+*.sqlite
+
+# Ignore by file type (add more as needed)
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+
+# Ignore JetBrains IDEs workspace files
+*.iws
+
+# Ignore generated files
+gen/
+
+# Ignore test output
+test-output/
+
+# Ignore Maven/Gradle build directories
+.mvn/
+.gradle/
